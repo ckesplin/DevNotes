@@ -1,0 +1,1 @@
+* userEvent will not work on disabled components.  Use fireEvent to interact with these components.

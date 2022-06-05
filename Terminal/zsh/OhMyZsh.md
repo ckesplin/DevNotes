@@ -1,7 +1,8 @@
-*Install from homebrew
+## Installing ohmyz.sh
+* Install from homebrew
 `https://ohmyz.sh/#install`
 
-*Install powerLevel10k theme
+* Install powerLevel10k theme
 `https://ohmyz.sh/#install`
 ```
 brew install romkatv/powerlevel10k/powerlevel10k
