@@ -1,0 +1,1 @@
+* You cannot log out of basic http authentication; you can only log in.

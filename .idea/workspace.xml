@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c57926e7-a53f-4537-830c-7df06804497d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.git-ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.git-ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker/keycloak.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/Security.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DevNotes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DevNotes" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +59,10 @@
       <option name="presentableId" value="Default" />
       <updated>1654393090791</updated>
       <workItem from="1654393095412" duration="605000" />
-      <workItem from="1654393704650" duration="27000" />
+      <workItem from="1654393704650" duration="157000" />
+      <workItem from="1654396169450" duration="311000" />
+      <workItem from="1654472925004" duration="688000" />
+      <workItem from="1654803851363" duration="676000" />
     </task>
     <servers />
   </component>
